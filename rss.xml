@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[We the People]]></title>
+        <description><![CDATA[We the People]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 20 Apr 2016 14:14:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[FERFRANS CRD Modular Muzzle Brake Review - BlackSheepWarrior.Com]]></title>
+            <description><![CDATA[<article><h1>FERFRANS CRD Modular Muzzle Brake Review - BlackSheepWarrior.Com</h1><p>Photography By TracerX for Reign Precision This article was previously published in similar form on Gunsandtactics.com The brand name FERFRANS evokes images of professional-grade short barreled CQB/CQC rifles used by military units in various countries around the world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b5309d120a439f5dee8503605fae73a4582686c.jpg"></article>]]></description>
+            <link>https://www.blacksheepwarrior.com/ferfans-cqb-modular-muzzle-brake-review/?w3tc_note=flush_pgcache</link>
+            <guid isPermaLink="false">f83d2ac5-62d6-4055-97da-1e23316755f9</guid>
+            <pubDate>Wed, 20 Apr 2016 14:14:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
